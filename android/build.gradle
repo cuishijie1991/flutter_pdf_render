@@ -48,6 +48,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    ndkVersion "28.0.13004108"
 }
 
 dependencies {
